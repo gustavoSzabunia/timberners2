@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-color: chartreuse;
+}
+h1{
+  color: aqua;
+}
+.menu{
+  background-color: rgb(255, 255, 255);
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  z-index: 10;
+  margin-top: 0px;
+}
+.link{
+font-family: fanta;
+display: inline;
+font-size: 20px;
+padding-right: 9px;
+padding-left: 9px;
+
+}
+
+#name{
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+.links:hover{
+font-size: 25px;
+text-decoration: underline;
+}
+
+#escritos a{
+  text-decoration: underline !important;
+  color: darkgreen !important;
+}
+
